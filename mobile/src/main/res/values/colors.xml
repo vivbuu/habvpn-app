@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background_selected">@color/material_primary_100</color>
-    <color name="background_stat">@color/material_primary_300</color>
-    <color name="material_amber_a700">#ffab00</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#2E7D32</color>
+    <color name="accent">#4CAF50</color>
+    <color name="background">#0d1117</color>
+    <color name="card">#161b22</color>
+    <color name="text">#e6e6e6</color>
+    <color name="text_secondary">#8b949e</color>
 </resources>
